@@ -1,0 +1,14 @@
+Stage 1
+input tsv data has 6 rows and 5 columns
+row 6 is:
+   1: Year       2024
+   2: Event      Cycling
+   3: Gender     Womens
+   4: Country    New Zealand
+   5: Medal      third: bronze
+
+Stage 2
+
+Stage 3
+
+ta daa!
