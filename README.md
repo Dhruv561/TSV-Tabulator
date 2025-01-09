@@ -38,19 +38,3 @@ row 6 is:
    3: Gender     Womens
    4: Country    New Zealand
    5: Medal      first: gold
-
-Stage 3
-------------------
-Country
-    Event    Count
-------------------
-China
-    Cycling      1
-    Swimming     1
-Indonesia
-    Swimming     1
-New Zealand
-    Cycling      2
-    Swimming     1
-------------------
-ta daa!
